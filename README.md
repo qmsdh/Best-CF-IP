@@ -3,7 +3,7 @@
 
 # 搭建自己的CF优选域名
 
-![111](https://img.qmsdh.com/api/cfile/AgACAgUAAyEGAASMeqieAAMcZzmfTREK2x4OQaYaxzoKG7pHXdoAAiXAMRv3KNFVzqpEpJVbWF0BAAMCAAN5AAM2BA)
+![111](https://raw.githubusercontent.com/qmsdh/Best-CF-IP/refs/heads/main/3.png)
 
 ## 说明：
 
@@ -30,11 +30,11 @@
 
 1. 打开cloudflare仪表盘，右上角，workers & pages，创建，选择pages，选择上传资产
 
-![1](https://img.qmsdh.com/api/cfile/AgACAgUAAyEGAASMeqieAAMdZzmfT78QFnkGD6At9J_UAuJdIG0AAibAMRv3KNFVdeyA5oOiFhwBAAMCAAN3AAM2BA)
+![1](https://raw.githubusercontent.com/qmsdh/Best-CF-IP/refs/heads/main/2.png)
 
 2. 随便写一个名称，然后点上传“压缩文件”，选择源码上传（可以自己改源码，但建议注明出处）
 
-![2](https://img.qmsdh.com/api/cfile/AgACAgUAAyEGAASMeqieAAMeZzmfU5h7zq9XMkVwWMKVFLvf2eIAAifAMRv3KNFVLRA51EmcbEcBAAMCAAN5AAM2BA)
+![2](https://raw.githubusercontent.com/qmsdh/Best-CF-IP/refs/heads/main/1.png)
 
 3. 按照“pages优选域名方法”来给自己网站添加优选域名，优选域名就填 cf.877774.xyz 就行，具体教程：[点击跳转](https://blog.qmsdh.com/index.php/archives/20/#cl-8)
 
