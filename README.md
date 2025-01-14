@@ -24,7 +24,7 @@
 
 ## 优选域名源码下载
 
-https://pan.qmsdh.com/%E6%96%87%E4%BB%B6/%E6%BA%90%E7%A0%81/cf%E4%BC%98%E9%80%89%E5%9F%9F%E5%90%8D%E6%BA%90%E7%A0%81.zip
+[点击下载源码](https://github.com/qmsdh/Best-CF-IP/releases/download/%E4%BC%98%E9%80%89%E5%9F%9F%E5%90%8D/best-cf.zip)
 
 ## 方法一：利用CF Pages搭建
 
